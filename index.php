@@ -79,7 +79,7 @@
 						</div>
 						<div class='landing-tx2-heading'>
 							<p>
-								 Арсен тримає нас в підвалі і змушує працювати (як НЕГРИ) 
+								 Арсен(gay) тримає нас в підвалі і змушує працювати (як НЕГРИ) 
 							</p>
 							<div class='landing-btn-container'>
 								<div class="build-btn-button">
