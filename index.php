@@ -74,7 +74,7 @@
 						<div class='landing-ico-logo'>
 						</div>
 						<div class='landing-tx1-heading pulsate'>
-							<h1>Танки для геїв
+							<h1>Танки для Чурок
 							 </h1>
 						</div>
 						<div class='landing-tx2-heading'>
@@ -249,7 +249,7 @@
 									 We're always open to allowing contributors to add to the codebase. Emulators are a complex pieces of software and as such, have many sub-components that require special attention and organization. With your help, you can contribute in taking RPCS3 to the next level.
 								</p>
 							</div>
-							<a href="https://github.com/rpcs3" target="_blank">
+							<a href="https://github.com/KpoJleBapKa/wotclan.website" target="_blank">
 							<div class="github-btn-button">
 								<div class="github-ico-button">
 								</div>
