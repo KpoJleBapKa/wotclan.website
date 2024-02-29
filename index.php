@@ -74,7 +74,7 @@
 						<div class='landing-ico-logo'>
 						</div>
 						<div class='landing-tx1-heading pulsate'>
-							<h1>Танки для Чурок
+							<h1>Танки для пєдіків
 							 </h1>
 						</div>
 						<div class='landing-tx2-heading'>
