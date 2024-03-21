@@ -1,25 +1,21 @@
-.button {
+.nav-bar a {
+    margin: 0;
     display: inline-block;
     padding: 10px 20px;
     background-color: #A3947E;
     color: #fff;
     text-decoration: none;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
     min-width: 120px;
     font-family: Arial, sans-serif;
 }
-.button:hover {
-    background-color: #0056b3;
+.nav-bar a:hover {
+    background-color: #c0af94;
 }
 .nav-bar {
 text-align: center; /* Розташовує кнопки в центрі */
-margin-top: 60px;
-}
-
-.nav-bar .button {
-margin: 0 10px; /* Задає відступ між кнопками */
+margin: 42px;
 }
 body {
     background-color: #817563; /* колір фону */
@@ -46,10 +42,9 @@ body {
 }
 .text-container {
     text-align: center; /* Центруємо текст всередині контейнера */
-    margin-top: 20px; /* Збільшуємо відступ від верхнього краю контейнера на 20px */
+    margin-top: 20px; /* Збільшуємо відступ від верхнього краю контейнера на 20px */      
     background-color: #C5B398; /* Колір фону контейнера */
     padding: 20px; /* Встановлюємо відступи всередині контейнера */
-    border-radius: 10px; /* Радіус закруглення кутів */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);}
 .logo-text {
     position: absolute; 
