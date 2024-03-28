@@ -57,24 +57,38 @@ align-items: center;
     font-size: 2vw;
     text-decoration: none;
     color: #000;
-    margin-left:120px;
+    margin-left:8vw;
     transition: all 0.2s ease-in-out;
 }
+.navbar-brand:hover{
+    color:white;
+}
+.image-container{
+    width: 100%; 
+    height: 140vh; 
+    background-image: url('Pictures/makaka.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    display: flex;
+}
 .black-font{
-    height:1150px;
+    height:120vh;
     width:50%;
     background-color: rgba(0 ,0, 0, .5);
-    margin-left:540px;
+    margin-left:25vw;
+    margin-right:25vw;
     margin-top: 123px;
     margin-bottom: 100px;
-    margin: 123px auto 100px;
+ 
 }
 #manki img{
-    height: 360px;
-    width:260px;
+    height: 30vh;
+    width:15vw;
 }
 .image-logo-manki{
-    margin-left: 350px;
+    margin-left: 18vw;
+    margin-right: 18vw;
     margin-top: 0px;
     
 }
@@ -132,8 +146,8 @@ margin-top:5px;
 }
 #content-manki{
 background-color: #A3947E;
-margin-left:266px;
-margin-right:266px;
+margin-left:10vw;
+margin-right:10vw;
 }
 p{
     font-size:24px;
@@ -151,4 +165,9 @@ footer{
     height:20vh;
     margin-top: 70px;
     padding: 5px;
+}
+.created{
+    margin-left: 17.5vw;
+    margin-right:17.5vw;
+
 }
